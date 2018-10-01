@@ -1,5 +1,4 @@
 text 9
-<<<<<<< HEAD
 text 11
 text 1
 text 1
@@ -13,8 +12,3 @@ text 1
 text 4
 text 1
 text 1
-
-=======
-text 10
-text 3
->>>>>>> branch1
