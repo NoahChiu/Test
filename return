@@ -1,0 +1,349 @@
+[33mcommit fda0be438c1ca54ee3f8e556235a8787177e5f75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31moriginal/master[m[33m)[m
+Merge: 80f9453 d7292e6
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:04:25 2018 +0800
+
+    Merge branch 'master' of https://github.com/NoahChiu/Test
+
+[33mcommit 80f945309b08f0c32ee2cd47fd2f5203c773b9be[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:03:32 2018 +0800
+
+    text1 change
+
+[33mcommit d7292e6010ecff5782430916b8ccbd9657db45dc[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:02:56 2018 +0800
+
+    Update text1.txt
+
+[33mcommit dffb4f205c883e7785739ec0deb15d9249cffb59[m
+Merge: 4887544 f14c860
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:02:13 2018 +0800
+
+    text1 change
+
+[33mcommit f14c860436b76f0ae52134580176c6994bdd3bd3[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:00:27 2018 +0800
+
+    Update text1.txt
+
+[33mcommit 488754484ca6f49b19c9049f0c56404e20df11dd[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 14:00:12 2018 +0800
+
+    text1 change
+
+[33mcommit 03b3ab94b32015bf58bed47c580da6a43ebd7d5f[m
+Merge: 6a0fe04 96ad2c4
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 13:46:32 2018 +0800
+
+    update
+
+[33mcommit 6a0fe04699ec8d37c9db9768be68b02ee516345b[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 13:44:27 2018 +0800
+
+    update
+
+[33mcommit 96ad2c420b7703073325356d5d4adff36101d9ee[m[33m ([m[1;31moriginal/branch1[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 13:43:50 2018 +0800
+
+    update
+
+[33mcommit 342a7415e19d5a55e2b2d1b18476c26802172f97[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 13:43:19 2018 +0800
+
+    update
+
+[33mcommit a429a3663cccfe65ce4ace5af92bdcd6f85db62a[m
+Merge: 0e0c458 bfc09e6
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:16:23 2018 +0800
+
+    Merge branch 'branch1'
+
+[33mcommit bfc09e68699569205b6cd2b31ff87d998d883001[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:16:10 2018 +0800
+
+    text1 change'
+
+[33mcommit 0e0c458e3cb9f62af33aeabd66ec7721e5f476b2[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:15:12 2018 +0800
+
+    text1 change'
+
+[33mcommit 37448c95895c4417a13dde37fdceb5562cfb9059[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:13:33 2018 +0800
+
+    text1 change
+
+[33mcommit aee542ae9d7a753a93b29493237cae96c3de1c85[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:13:10 2018 +0800
+
+    text1 change
+
+[33mcommit 3caa62bb0ab22c56e017d4b7ca38d294ef161c80[m
+Merge: b598cf7 d7eaa8a
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:09:31 2018 +0800
+
+    text1 change'
+
+[33mcommit d7eaa8a327aa64fd068e0dd4901dfe1e471cf6e4[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:08:44 2018 +0800
+
+    text1 change'
+
+[33mcommit b598cf7a40f15a5a88e931e709a9fe79501f09ef[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:08:23 2018 +0800
+
+    text1 change'
+
+[33mcommit feb5a7ec6c3de8e9e625bac5a5f2aae0a7730217[m
+Merge: 67a2ccb 04e0c38
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:08:00 2018 +0800
+
+    Merge branch 'branch1'
+
+[33mcommit 04e0c38724aca75b5d826a0b510cb61bd9c220a1[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:07:53 2018 +0800
+
+    text1 change'
+
+[33mcommit 67a2ccb4eb0bb4b31fd66c416ba6714ca2a8f4f7[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:07:40 2018 +0800
+
+    text1 change'
+
+[33mcommit 4aa20352d8121d53e3b9d3262b09ab6d1a03ec35[m
+Merge: 19e04d1 2e331c5
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:07:19 2018 +0800
+
+    Merge branch 'branch1'
+
+[33mcommit 2e331c5d73981dbd8164a211c9bc7250f637adad[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:07:08 2018 +0800
+
+    text1 change
+
+[33mcommit 19e04d19e449d94aa8be9fd0daef6a594ccf1b3b[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:06:44 2018 +0800
+
+    text1 change'
+
+[33mcommit fffe84df4ca3483e58b4b66d0c62d1fa6f53fc41[m
+Merge: 93a4f16 3c98469
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:06:03 2018 +0800
+
+    Merge branch 'branch1'
+
+[33mcommit 93a4f165617c49ac746b6241e60f59dbbd72c5be[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:05:57 2018 +0800
+
+    text1 change'
+
+[33mcommit 3c98469579e8d76281e9ccff81f585089deda36a[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:04:56 2018 +0800
+
+    text1 change'
+
+[33mcommit 05f27a1bf4d2bad642e47021c012aa32f4f7ef97[m
+Merge: 6954591 4bfa970
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:04:19 2018 +0800
+
+    text1 change'
+
+[33mcommit 4bfa97075bbeb1a39ae9f5ca99944fdb015bbf62[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:01:56 2018 +0800
+
+    text1 change'
+
+[33mcommit 6954591bd16741d2955972c4e7ba3026d8f1dde2[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:00:44 2018 +0800
+
+    text1 change
+
+[33mcommit f1eca3278bdf589e0463f05660ad0821be09a41e[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:00:15 2018 +0800
+
+    1
+
+[33mcommit c65c99f628d69de09794176a55e76c455851f646[m
+Merge: a83c3da 9125d22
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 12:00:10 2018 +0800
+
+    1
+
+[33mcommit a83c3daf46ade86cbccd27067783a62e8b091b98[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:58:42 2018 +0800
+
+    text1 change
+
+[33mcommit 9125d2227d101bddc3b602237b5dfbb07825b762[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:57:51 2018 +0800
+
+    text1 change'
+
+[33mcommit 6d5905e0e363779ee388cae8f0cb0a07a84351a1[m
+Merge: d0b7f52 4460801
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:56:00 2018 +0800
+
+    Merge branch 'branch1'
+
+[33mcommit 4460801cd6e4f9196fc964e2e2ea5d99543764f5[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:55:39 2018 +0800
+
+    text1 change
+
+[33mcommit d0b7f52b70549cfdc6cf82fc68c4336b90c9ab56[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:54:25 2018 +0800
+
+    text1 change
+
+[33mcommit be52c524fda0292146223dbccac30ebef58b4763[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:44:31 2018 +0800
+
+    delete text4
+
+[33mcommit 76ae1a64d678b472e5bd119bfff09090ec28384d[m
+Merge: b5c93d2 e0e2ea6
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:41:36 2018 +0800
+
+    after merge
+
+[33mcommit e0e2ea6e9e526f3a79629f3c899778157318339b[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:36:02 2018 +0800
+
+    text1 change
+
+[33mcommit b5c93d2f5e1c0475f4c7a1fe1d7a06efa24f1e5e[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:35:13 2018 +0800
+
+    text change
+
+[33mcommit aab735d7cf6512c59450c5ed3dfa1a199297d0d2[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 11:32:45 2018 +0800
+
+    new data
+
+[33mcommit c41e5fe45b16441c3321d0245774bcfa63d4a9f1[m
+Merge: d17e4be 0764d92
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:52:50 2018 +0800
+
+    text1 6
+
+[33mcommit d17e4be52461b512f9f6cf65d73a07d8e45c19f1[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:44:52 2018 +0800
+
+    text1 6
+
+[33mcommit 0764d92e75287f8dfbb484e56ecfbb35522d2f98[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:44:17 2018 +0800
+
+    5
+
+[33mcommit 3ccd5bcdc9aac92911c16d736fe4a1b0878a1eb5[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:39:45 2018 +0800
+
+    1
+
+[33mcommit 346da7d9684e7f0a3d9c28a09b7c5118acf3cf17[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:39:09 2018 +0800
+
+    5
+
+[33mcommit d16404b86bd80cea9bf67b27999f8539a33466b6[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:32:56 2018 +0800
+
+    5
+
+[33mcommit e14f0b48a6920fa931629ac03e30afc6c52f6ee4[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:31:22 2018 +0800
+
+    text2
+
+[33mcommit 26503aba777e3b30ee912cc3f38b530a91ddcc0c[m
+Merge: a2225d5 a0cc4aa
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:26:50 2018 +0800
+
+    Merge branch 'master' of https://github.com/NoahChiu/Test
+
+[33mcommit a2225d5a22c9efa2fd400526166f1224a80e198c[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:26:08 2018 +0800
+
+    text2
+
+[33mcommit a0cc4aa4ee9231a7381432c113483a5a37270142[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:24:23 2018 +0800
+
+    Update text1.txt
+
+[33mcommit 5b36063141a5d6bf2f4a00615e6c20b4268df4a3[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:20:56 2018 +0800
+
+    1
+
+[33mcommit c8d037d9fe828fd279ed28a2e6be4291a4b1c34f[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 09:04:11 2018 +0800
+
+    Update text1.txt
+
+[33mcommit e2fbe6cbb2936a2509e01f8eaf09d5409ec71550[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 08:55:01 2018 +0800
+
+    new file
+
+[33mcommit 878ce20e168e757a2261ef0185b8c1219153d026[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NoahChiu <43430207+NoahChiu@users.noreply.github.com>
+Date:   Mon Oct 1 08:50:33 2018 +0800
+
+    Initial commit
